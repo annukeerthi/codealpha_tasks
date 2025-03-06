@@ -1,0 +1,19 @@
+# requirements.txt
+# googletrans==4.0.0-rc1
+
+# README.md
+# Language Translator
+
+This is a simple Python-based language translator using Google Translate API (`googletrans`).
+
+## Installation
+1. Install dependencies:
+   ```sh
+   pip install -r requirements.txt
+   ```
+
+## Usage
+Run the script and input text along with source and destination languages:
+```sh
+python translator.py
+```
